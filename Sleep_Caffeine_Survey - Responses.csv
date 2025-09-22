@@ -1,0 +1,72 @@
+sleep_hours,nap,caffeine_daily,caffeine_source,energy_level
+7.5,No,No,None,7
+7,No,No,Soda,8
+7.5,No,Yes,Soda,4
+7,No,Yes,Soda,7
+8,No,No,None,10
+7,No,Yes,Soda,6
+6,No,No,Soda,7
+8,No,No,None,8
+6.5,No,No,None,8
+7.5,No,No,Soda,8
+8,No,No,Soda,8
+7,No,No,None,8
+7,No,Yes,Energy Drink,7
+7.5,No,No,None,7
+6,No,No,Soda,7
+7,No,No,Energy Drink,7
+8,No,No,Soda,7
+6,Yes,No,None,7
+5,No,Yes,Energy Drink,5
+8,No,No,None,8
+6,No,No,None,6
+6,Yes,No,None,5
+6,No,Yes,Energy Drink,7
+5,No,Yes,Energy Drink,5
+6,No,No,Soda,4
+7,No,No,None,7
+8,No,No,Soda,8
+6,No,Yes,Soda,4
+6,No,No,Soda,7
+6,No,No,Energy Drink,6
+7,No,Yes,Energy Drink,8
+8,No,No,None,4
+7,No,No,Soda,8
+7,No,No,None,7
+7,No,No,None,7
+8,No,No,None,7
+6.5,No,Yes,Energy Drink,7
+7,No,No,None,8
+7,No,No,Energy Drink,7
+8,No,No,None,4
+7,No,No,Soda,8
+7,No,No,Soda,8
+6.5,No,No,None,6
+8,No,No,None,8
+7,No,No,Soda,7
+6,No,Yes,Soda,7
+7,No,No,None,5
+9,No,No,None,8
+8,Yes,Yes,Coffee,7
+6,No,Yes,Soda,7
+5,Yes,Yes,Coffee,7
+7,No,No,Soda,8
+7.5,No,No,None,7
+7,No,No,Energy Drink,7
+6,No,No,None,8
+7,No,No,Soda,8
+6,No,No,None,8
+5,No,Yes,Energy Drink,7
+9,No,No,None,8
+6,No,No,None,8
+7.5,No,No,Soda,8
+8,No,Yes,Energy Drink,8
+7,No,No,Soda,7
+6,Yes,No,Soda,8
+6,Yes,Yes,Energy Drink,7
+7,No,Yes,Soda,6
+7,No,No,Soda,7
+6.5,No,Yes,Soda,9
+7,No,Yes,Soda,7
+7,No,No,Soda,7
+6,No,No,None,8
